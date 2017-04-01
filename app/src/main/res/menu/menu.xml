@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/categories"
+        android:title="Categories"
+        android:icon="@android:drawable/btn_star"/>
+    <item android:id="@+id/items"
+        android:icon="@android:drawable/btn_star"
+        android:title="Items"/>
+    <item android:id="@+id/images"
+        android:icon="@android:drawable/btn_star"
+        android:title="Images"/>
+</menu>
